@@ -22,7 +22,7 @@
 
 ### ■ 주요 기술
 1. front-end : thymeleaf + Bootstrap 5
-2. back-end : Spring boot 3 + JPA + Mybatis
+2. back-end : Spring boot 2.7.18 + JPA + Mybatis
 3. 인증 : OAuth 2.0 + JWT + Spring Security
 
 ### ■ 계획 일정
