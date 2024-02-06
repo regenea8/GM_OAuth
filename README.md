@@ -7,11 +7,11 @@
         - 유틸리티 설치 (Telnet Client, traceroute 등)
     - 보안 설정
         - 네트워크 구성
-        - SSH 원격 접속 권한
+        - SSH/SFTP 원격 접속
         - 방화벽 설정
         - SSL 인증서 생성
     - 개발 환경 구성
-        - OpenJDK 설치
+        - OpenJDK 1.8 설치
         - DBMS 설치
    - 서버 시간 동기화 (보라넷)
 
