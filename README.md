@@ -18,7 +18,7 @@
 ### ■ 개발 환경
 1. 개발언어 : [Java 1.8 (LTS)](https://github.com/ojdkbuild/ojdkbuild)
 2. 빌드도구 : Gradle
-3. DataBase : [MySQL Community Server 8.0.36](https://dev.mysql.com/downloads/windows/installer/8.0.html)
+3. DBMS : [MySQL Community Server 8.0.36](https://dev.mysql.com/downloads/windows/installer/8.0.html)
 
 ### ■ 주요 기술
 1. front-end : thymeleaf + Bootstrap 5
