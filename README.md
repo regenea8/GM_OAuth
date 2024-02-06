@@ -21,9 +21,17 @@
 3. DBMS : [MySQL Community Server 8.0.36](https://dev.mysql.com/downloads/windows/installer/8.0.html)
 
 ### ■ 주요 기술
-1. front-end : thymeleaf + Bootstrap 5
-2. back-end : Spring boot 2.7.18 + JPA + Mybatis
-3. 인증 : OAuth 2.0 + JWT + Spring Security
+1. front-end
+    - thymeleaf
+    - Bootstrap 5
+2. back-end
+    - Spring boot 2.7.18
+    - JPA
+    - Mybatis
+3. 인증
+    - OAuth 2.0
+    - JWT
+    - Spring Security
 
 ### ■ 계획 일정
 - 2월 ~ 3월 : 자료 조사
