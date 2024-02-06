@@ -1,7 +1,7 @@
 # OAuth 2.0
 
 ### ■ 서버 환경
-1. O/S : [Ubuntu 22.04 LTS](https://ubuntu.com/download/desktop) (https://releases.ubuntu.com/22.04/)
+1. O/S : [Ubuntu 22.04 (LTS)](https://ubuntu.com/download/desktop) (https://releases.ubuntu.com/22.04/)
     - CLI(Command Line Interface) 및 GUI(Graphical User Interface) 모드 설치
     - 환경 구성 
         - 유틸리티 설치 (Telnet Client, traceroute 등)
